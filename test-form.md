@@ -7,6 +7,6 @@ check.assert = (val) => val && typeof val === 'string' && val.match(/^[a-z]{6}$/
 ```
 So we need a React-way of doing so.
 
-After completing the test you can create PR.
+After completing the test you can create a public repo in your profile for review and share with your correspondent Numl Team member.
 
 Thanks!
