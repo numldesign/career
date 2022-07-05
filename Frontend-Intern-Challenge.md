@@ -1,8 +1,8 @@
-## Frontend Developer Intern Challenge - Summer 2022
+## Frontend Developer Intern Challenge
 
-### Spacestagram: Image-sharing from the final frontier
+### Spacegram: Image-sharing from the final frontier.
 
-For the purposes of this project, Outpost is extending our mission to Make Commerce Better for Everyone to include the whole entire universe. Please build us an app to help share photos from one of NASA’s image APIs.
+For the purposes of this project, Outpost is building a serverless cloud platform. Please build us an app to help share photos from one of NASA’s image APIs.
 
 ### The Challenge
 
