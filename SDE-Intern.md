@@ -6,7 +6,7 @@ Build a Stock Photography Platform.
 
 > You can tackle this challenge using React and Typescript. This is an open-ended task.
 
-Please provide brief instructions on how to use the application. Ensure the challenge includes tests. Provide brief instructions on how to use the application, so that someone could use the application and understand how it works. 
+Please provide brief instructions on how to use the application. Ensure the challenge includes tests. Provide brief instructions on how to use the application, so that someone could use the application and understand how it works. You can use [Unsplash](https://unsplash.com/documentation) or any other open API if required.
 
 ### Extra Information
 
