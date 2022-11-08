@@ -17,24 +17,38 @@ Please focus on what interests you the most. If you need inspiration, here are e
 ### Ideas
 
 - **SEARCH function**
-a. from characteristics of the images
-b. from text
-c. from an image (search for similar images)
+
+  a. from characteristics of the images
+
+  b. from text
+
+  c. from an image (search for similar images)
 
 - **ADD image(s) to the repository**
-a. one / bulk / enormous amount of images
-b. private or public (permissions)
-c. secure uploading and stored images
+
+  a. one / bulk / enormous amount of images
+
+  b. private or public (permissions)
+
+  c. secure uploading and stored images
 
 - **DELETE image(s)**
-a. one / bulk / selected / all images
-b. Prevent a user from deleting images from another user (access control)
-c. secure deletion of images
+
+
+  a. one / bulk / selected / all images
+
+  b. Prevent a user from deleting images from another user (access control)
+  
+  c. secure deletion of images
 
 - **SELL/BUY images**
-a. ability to manage inventory
-b. set price
-c. discounts
-d. handle money
+
+  a. ability to manage inventory
+
+  b. set price
+  
+  c. discounts
+
+  d. handle money
 
 > Save your work to your GitHub and link the specific challenge to your application. 
