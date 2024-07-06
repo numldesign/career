@@ -6,8 +6,8 @@ Set up a highly available web application on GCP using K3s. The application is w
 
 ### Your task is to:
 
-1. Create a K3s cluster across 3 GCP nodes in different zones for high availability.
-2. Deploy the Python web application to the K3s cluster using Helm charts. The app should connect to a MySQL database.
+1. Create a K3s cluster with High Availability Embedded etcd for fault-tolerant.
+2. Deploy the Python web application to the K3s cluster using Helm charts. The app should connect to a PostgreSQL database.
 3. Set up a PostgreSQL database in GCP and configure the app to connect to it.
 4. Configure DNS to point a custom domain name to the K3s cluster's load balancer IP.
 5. Write a Python script to automate the entire setup process. The script should:
