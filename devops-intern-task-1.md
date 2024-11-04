@@ -1,6 +1,8 @@
 ### Objective:
 Create a FastAPI application that provisions EC2 instances using the AWS SDK (Boto3).
 
+> Boto3 [Docs↗](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html) and [Repo↗](https://github.com/boto/boto3) link for reference.
+
 ### Task Overview:
 Develop a RESTful API using FastAPI that allows users to provision and manage Amazon EC2 instances. The application should include endpoints for creating, listing, starting, stopping, and terminating EC2 instances.
 
