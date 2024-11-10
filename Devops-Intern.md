@@ -1,5 +1,5 @@
 ### The Challenge
-Set up a highly available web application on Azure using K3s. The application is written in Next.js and requires a PostgreSQL database (using CloudNativePG). The application should be accessible via a custom domain name.
+Write a [FastAPI](https://fastapi.tiangolo.com/) server to create a highly available [K3s](https://k3s.io/) cluster on [Azure Virtual Machine](https://learn.microsoft.com/en-us/python/api/overview/azure/compute?view=azure-python) using just simple API endpoints. Deploy CloudNativePG in the K3s cluster using [Helm charts](https://helm.sh/).
 
 #### Your task is to:
 - Create a [K3s cluster with High Availability using Embedded etcd](https://docs.k3s.io/datastore/ha-embedded?_highlight=hig) for fault tolerance.
