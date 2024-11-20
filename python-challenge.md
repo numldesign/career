@@ -12,14 +12,14 @@
   - Set up a FastAPI application with a well-structured project layout.
   - Configure necessary libraries such as FastAPI-SQLAlchemy for ORM and FastAPI-Cors for handling CORS issues.
 2. Database Configuration:
-  - Connect to PostgreSQL and create tables for users, products, orders, and user_product_interactions (to track user interactions with products).
+  - Connect to PostgreSQL and create tables for `users`, `products`, `orders`, and `user_product_interactions` (to track user interactions with products).
   - Define relationships between tables.
 
 #### Part 2: User Interaction Tracking (30 minutes)
 
 1. Capture User Interactions:
   - Implement an API endpoint that logs user interactions with products (e.g., views, clicks, purchases).
-  - Store these interactions in the user_product_interactions table.
+  - Store these interactions in the `user_product_interactions` table.
 2. Data Processing:
   - Create a background task using Celery that processes the interaction data periodically to update user profiles for recommendations.
 
@@ -41,8 +41,8 @@
   - Write unit tests for the recommendation logic and API endpoints using pytest.
   - Document the API endpoints using Swagger or Postman.
 3. Serialization Methods:
-  - Implement serialization of user interactions and recommendations using both pickle and JSON.
-  - Demonstrate converting data from pickle format to JSON for API responses.
+  - Implement serialization of user interactions and recommendations using both `pickle` and `JSON`.
+  - Demonstrate converting data from `pickle` format to `JSON` for API responses.
 
 #### Evaluation Criteria
 
